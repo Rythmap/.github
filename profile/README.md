@@ -3,7 +3,7 @@
 
 ## `Состав разработчиков`
 
-- [**13mvnh (qylex)**](https://github.com/qylex/)  
+- [**13mvnh**](https://github.com/mvnh/)  
 Мобильный разработчик (Melodymap-client)
 
 - [**qwellor**](https://github.com/qw3ll)  
