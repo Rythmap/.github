@@ -6,5 +6,5 @@
 - [**13mvnh**](https://github.com/mvnh/)  
 Мобильный разработчик (Melodymap-client)
 
-- [**qwellor**](https://github.com/qw3ll)  
+- [**Aleksandr Pervushin**](https://github.com/alexpervushin)  
 Python-разработчик (Melodymap-server)
