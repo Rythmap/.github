@@ -7,4 +7,4 @@
 Мобильный разработчик ([Rythmap-client](https://github.com/Rythmap/Rythmap-client))
 
 - [**Aleksandr Pervushin**](https://github.com/alexpervushin)  
-Python-разработчик ([Rythmap-client](https://github.com/Rythmap/Rythmap-server))
+Python-разработчик ([Rythmap-server](https://github.com/Rythmap/Rythmap-server))
