@@ -4,9 +4,9 @@
 ## `Состав разработчиков`
 
 - [**13mvnh**](https://github.com/mvnh/)  
-Мобильный разработчик ([Rythmap-client](https://github.com/Rythmap/Rythmap-client))
+[Мобильное приложение на Java](https://github.com/Rythmap/Rythmap-client) и [сервер на Kotlin с использованием фреймворка Ktor](https://github.com/Rythmap/Rythmap-server-kt)
 
-- Ранее в написании [сервера](https://github.com/Rythmap/Rythmap-server) принимал участие [qw3ll](https://github.com/alexpervushin), Python-разработчик
+- Ранее в написании [сервера](https://github.com/Rythmap/Rythmap-server) принимал участие [**qw3ll**](https://github.com/alexpervushin)
 
 ## `Больше о разработке проекта`
 - [Телеграм-канал](t.me/Rythmap)
