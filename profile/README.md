@@ -6,5 +6,7 @@
 - [**13mvnh**](https://github.com/mvnh/)  
 Мобильный разработчик ([Rythmap-client](https://github.com/Rythmap/Rythmap-client))
 
-- [**Aleksandr Pervushin**](https://github.com/alexpervushin)  
-Python-разработчик ([Rythmap-server](https://github.com/Rythmap/Rythmap-server))
+- Ранее в написании [сервера](https://github.com/Rythmap/Rythmap-server) принимал участие [qw3ll](https://github.com/alexpervushin), Python-разработчик
+
+## `Больше о разработке проекта`
+- [Телеграм-канал](t.me/Rythmap)
