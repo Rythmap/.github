@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/162190066?s=200&v=4" alt="Rythmap Logo"/>
 
 # /rythmap/
-### A social platform for sharing music preferences and geolocation
+### A social platform for sharing music preferences and location
 
 <strong>[Русский](https://github.com/Rythmap/.github/blob/main/profile/README_ru.md)</strong>
 
