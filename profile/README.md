@@ -1,20 +1,21 @@
+[Русский](https://github.com/Rythmap/.github/blob/main/profile/README_ru.md)
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/162190066?s=200&v=4" alt="Rythmap Logo"/>
   <br>
-  <strong>[р’итм`ап]</strong>
+  <strong>/rythmap/</strong>
 </p>
 
-# ⚠️ `Разработка приостановлена`
-Rythmap вернётся в другом облике
+# ⚠️ `Development stopped`
+Rythmap will be back in a different look
 
-## `О проекте`
-Приложение, которое предоставляет возможность обмениваться местоположением и музыкой. Оно предлагает интерактивную карту, на которой отображается местоположение людей поблизости в реальном времени и их текущую проигрываемую музыку
+## `About`
+Rythmap is an app that gives you an opportunity to share your location and music. It offers an interactive map that shows the real-time location of people nearby and their currently playing music.
 
-## `Состав разработчиков`
+## `Development team`
 - [**mvnh**](https://github.com/mvnh)  
-[Мобильное приложение на Kotlin](https://github.com/Rythmap/client-kt) и [сервер, использующий фреймворк Ktor](https://github.com/Rythmap/server-kt)
+[Mobile application in Kotlin](https://github.com/Rythmap/client-kt) and [server using Ktor framework](https://github.com/Rythmap/server-kt)
 
-Ранее в написании [сервера](https://github.com/Rythmap/server-py-legacy) принимал участие [**qw3ll**](https://github.com/alexpervushin)
+Previosly [**qw3ll**](https://github.com/alexpervushin) participated in the [server](https://github.com/Rythmap/server-py-legacy) writing
 
-## `Больше о разработке проекта`
-- ~~[Телеграм-канал](t.me/Rythmap)~~ бездействует ввиду приостановки разработки
+## `More about project development`
+- ~~[Telegram channel](t.me/Rythmap)~~ idle due to stopped development 
