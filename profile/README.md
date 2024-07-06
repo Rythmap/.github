@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://avatars.githubusercontent.com/u/162190066?s=200&v=4" alt="Rythmap Logo"/>
+<img src="emoji.png" alt="Rythmap Logo" width="200"/>
 
 # /rythmap/
 ### A social platform for sharing music preferences and location
