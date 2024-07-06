@@ -1,11 +1,11 @@
 <div align="center">
   
-<img src="emoji.png" alt="Rythmap Logo" width="200"/>
+<img src="https://github.com/Rythmap/.github/blob/main/profile/emoji.png" alt="Rythmap Logo" width="200"/>
 
 # /rythmap/
 ### A social platform for sharing music preferences and location
 
-<strong>[Русский](README_ru.md)</strong>
+<strong>[Русский](https://github.com/Rythmap/.github/blob/main/profile/README_ru.md)</strong>
 
 </div>
 
