@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="emoji.png" alt="Rythmap Logo" width="200"/>
+<img src="https://github.com/Rythmap/.github/blob/main/profile/emoji.png" alt="Rythmap Logo" width="200"/>
 
 # [р’итм`ап]
 ### Социальная платформа для обмена музыкальными предпочтениями и локацией
 
-<strong>[English](README.md)</strong>
+<strong>[English](https://github.com/Rythmap/.github/blob/main/profile/README.md)</strong>
 
 </div>
 
