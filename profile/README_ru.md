@@ -5,7 +5,7 @@
 # [р’итм`ап]
 ### Социальная платформа для обмена музыкальными предпочтениями и локацией
 
-<strong>[English](https://github.com/Rythmap/.github/blob/main/profile/README.md)</strong>
+<strong>[English](README.md)</strong>
 
 </div>
 
