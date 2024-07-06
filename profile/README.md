@@ -5,7 +5,7 @@
 # /rythmap/
 ### A social platform for sharing music preferences and location
 
-<strong>[Русский](https://github.com/Rythmap/.github/blob/main/profile/README_ru.md)</strong>
+<strong>[Русский](README_ru.md)</strong>
 
 </div>
 
