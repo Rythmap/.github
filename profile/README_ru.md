@@ -21,5 +21,5 @@ Rythmap вернётся в другом облике
 
 Ранее в написании [сервера](https://github.com/Rythmap/server-py-legacy) принимал участие [**qw3ll**](https://github.com/alexpervushin)
 
-## 🤓 `Больше о проекте`
+## 🤓 `Больше`
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rythmap)
